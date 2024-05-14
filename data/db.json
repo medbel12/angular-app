@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "dXNlcjE=",
+      "role": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwOi8vbG9jYWxob3N0OjQyMDAvYXV0aCIsImZpcnN0bmFtZSI6Ik91c3NhbWEiLCJpYXQiOjE1MTYyMzkwMjIsImxhc3RuYW1lIjoibGFocmFjaGUiLCJlbWFpbCI6Im91c3NhbWEubGFocmFjaGVAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.yePxDj7ArkrxsG0JQ7rZir-mFrvmh-qtfK8xgpDfLSQ"
+    },
+    {
+      "id": "user2",
+      "password": "dXNlcjI==",
+      "role": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwOi8vbG9jYWxob3N0OjQyMDAvYXV0aCIsImZpcnN0bmFtZSI6Ik91c3NhbWEiLCJpYXQiOjE1MTYyMzkwMjIsImxhc3RuYW1lIjoibGFocmFjaGUiLCJlbWFpbCI6Im91c3NhbWEubGFocmFjaGVAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.yePxDj7ArkrxsG0JQ7rZir-mFrvmh-qtfK8xgpDfLSQ"
+    },
+    {
+      "id": "admin",
+      "password": "YWRtaW4=",
+      "role": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJodHRwOi8vbG9jYWxob3N0OjQyMDAvYXV0aCIsImZpcnN0bmFtZSI6Ik91c3NhbWEiLCJpYXQiOjE1MTYyMzkwMjIsImxhc3RuYW1lIjoibGFocmFjaGUiLCJlbWFpbCI6Im91c3NhbWEubGFocmFjaGVAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.NkfJz1tTP-pKC3iNyB0iHR9lCamQLhwhUorz3HRG_iw"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "ps5",
+      "checked": true,
+      "price": "12500"
+    },
+    {
+      "id": 3,
+      "name": "xbox",
+      "price": 12000,
+      "checked": true
+    },
+    {
+      "name": "deydevde",
+      "price": "12345",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "dededfefe",
+      "price": "12345",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "dadav",
+      "price": "1222222",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "dadav",
+      "price": "1222222",
+      "checked": true,
+      "id": 8
+    }
+  ]
+}
